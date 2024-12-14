@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with a custom camera component.  The preview frame sometimes freezes, and the camera becomes unresponsive. This is intermittent and hard to reproduce consistently. It appears related to the handling of image capture and re-rendering of the preview.
